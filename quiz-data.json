@@ -1,0 +1,931 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "lessonName": "برّ الوالدين",
+      "lesson": "التعريف:\n\nالأبناء والبنات الصالحون هم الذين يذكرون دائمًا فضل والديهم عليهم، ويعلمون أنه مهما فعلوا فلن يستطيعوا أن يوفّوا والديهم حقّهما أو يعوّضوا شيئًا من إحسانهما. وهم الذين لا يتسببون في إغضاب والديهم أو إيذائهم بأي أمر، ويحرصون على تلبية رغباتهم وطلباتهم، ويسعون جاهدين لإدخال السرور على قلوبهم.\n\nفقد قال الله سبحانه وتعالى:\n﴿وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا ۝ وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾\n\nالحديث:\n\nيبيّن هذا النص أن برّ الوالدين يعني إظهار الاحترام الكامل لهما، وعدم معاملتهما بازدراء أو احتقار، لا بالكلام ولا بالفعل ولا حتى بنظرة غضب. وقد حذّر النبي ﷺ من أن إظهار الغضب تجاه الوالدين دليل على عدم برّهما.\n\nكما يأمر الله المؤمنين بتذكّر تضحيات الوالدين وشكرهما، تمامًا كما نشكر الله على نعمه. ومن أهم صور برّ الوالدين الدعاء لهما بإخلاص في حياتهما وبعد وفاتهما، وسؤال الله أن يرحمهما ويغفر لهما.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "بحسب النص، فإن برّ الوالدين يشمل:",
+          "options": [
+            "A) تجاهلهما عندما يكبران في السن)",
+            "B) النظر إليهما بغضب عند الانزعاج",
+            "C) شكرهما والدعاء لهما",
+            "D) انتقادهما بحجة إصلاحهما"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "type": "true-false",
+          "question": "يأمرنا الله أن نشكر والدينا بسبب المشقة التي تحمّلاها في تربيتنا",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "fill-blank",
+          "question": "من أهم صور برّ الوالدين بعد وفاتهما: _____ لهما بإخلاص.",
+          "correctAnswer": "الدعاء"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "lessonName": "الخلق 2: لا تكن عياباً",
+      "lesson": "الملخص: هذه الفضيلة تعني ستر عيوب الآخرين بدلاً من فضحها. يجب أن نركز على إصلاح عيوبنا ونشكر الله على سترها. النبي محمد ﷺ كان يصحح للناس بشكل خاص ولم يفضح أحداً علناً أبداً.\n\nالقصة: رأى الحسن والحسين ذات مرة رجلاً عجوزاً يتوضأ بشكل خاطئ. بدلاً من فضحه علناً، علّماه بهدوء كيفية الوضوء الصحيح. منذ ذلك الحين، أصبح الرجل العجوز يتوضَّـأ بشكل صحيح، وحافظ الحسن والحسين على كرامته كما علّم النبي محمد ﷺ.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "النبي محمد ﷺ كان يصحح أخطاء الناس عن طريق:",
+          "options": [
+            "أ) فضحهم علناً بالاسم",
+            "ب) إرشادهم بشكل خاص دون ذكر أسماء",
+            "ج) تجاهل جميع الأخطاء تماماً"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "true-false",
+          "question": "عندما ترى عيباً في شخص ما، يجب أن تشكر الله على حمايتك من هذا الابتلاء.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق الصفة النبوية: ١- لطيف في الكلام، ٢- يرشد سراً، ٣- لطيف في التعامل | أ) يصحح بشكل خاص ب) لا يجرح المشاعر ج) مهذب وودود. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "lessonName": "الخلق 3: القناعة (ولا تمدن عينيك)",
+      "lesson": "الملخص:\nرغبتنا في امتلاك الأشياء قد تكون أحياناً مصدر شقائنا عندما لا نكون راضين بما لدينا. لهذا أمرنا الله ﷻ أن \"لا ننظر\" بأعيننا وقلوبنا إلى ممتلكات الآخرين. الله ﷻ هو الحكيم، وهو وحده يعلم ما يناسب كل واحد منا.\n\nالقصة:\nشعرت رشا بالحزن والغضب لأن أخواتها التحقن بجامعات أفضل منها. أصبحت قاسية مع والديها، خاصة والدها. بعد سماع محاضرة عن \"ولا تمدن عينيك\"، أدركت خطأها. توقفت عن مقارنة نفسها بأخواتها، طلبت مغفرة والديها، ووجدت السلام في القناعة. لاحقاً، عرض عليها أستاذها وظيفة مرموقة لم تتخيلها أبداً - كانت خطة الله أفضل طوال الوقت.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "ماذا أمرنا الله ﷻ بشأن ممتلكات الآخرين؟",
+          "options": [
+            "أ) أن نتنافس معهم للحصول على نفس الشيء",
+            "ب) ألا ننظر إليها بأعيننا وقلوبنا",
+            "ج) أن نطلب من الآخرين مشاركة ممتلكاتهم",
+            "د) أن نشعر بالحزن على ما لا نملكه"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "true-false",
+          "question": "القناعة بما أعطانا الله تحمينا من الشقاء والحسد.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق المفهوم مع نتيجته: ١- القناعة، ٢- مقارنة أنفسنا بالآخرين، ٣- الثقة بحكمة الله | أ) تؤدي إلى الغضب والحزن ب) تجلب السلام والسعادة ج) معرفة أن الله يعطي كل شخص ما يناسبه. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "lessonName": "الخلق 7: الحب في الله تعالا واللاثار (السلامه من الأنانية)",
+      "lesson": "الملخص:\nالحب في الله يعني حب الآخرين بإخلاص لله وحده، وليس لمكاسب شخصية. الذين يحبون بعضهم في الله سيُكرمون يوم القيامة بوجوه مشرقة. هذا الحب يتطلب تمني الخير للآخرين، وحفظ الأسرار، والمغفرة، وعدم الغيبة أبداً. علمنا النبي ﷺ أن نعبر عن هذا الحب علناً.\n\nالقصة:\nعندما وصل المهاجرون إلى المدينة، لم يعجبهم الماء لأنهم اعتادوا على ماء زمزم. كان الماء الجيد الوحيد في بئر رومة، المملوكة ليهودي كان يفرض أسعاراً باهظة. عندما علم النبي ﷺ بذلك، قال: \"من يشتري بئر رومة ويجعلها للمسلمين مجاناً، وله الجنة؟\" فاستجاب عثمان بن عفان رضي الله عنه فوراً. رفض اليهودي البيع، فاستمر عثمان في التفاوض حتى اشترى نصف البئر - يوم للمسلمين (مجاناً)، ويوم لليهودي (مدفوع). عندما جاء يوم اليهودي، لم يشتر منه أحد لأن ماء عثمان كان مجانياً. عندما رأى اليهودي أن تجارته خربت، عرض بيع النصف الآخر. اشتراه عثمان وجعل البئر كلها مجانية لجميع المسلمين، فنال وعد النبي بالجنة.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "لماذا اشترى عثمان بن عفان رضي الله عنه بئر رومة؟",
+          "options": [
+            "أ) لتحقيق الربح من بيع الماء",
+            "ب) ليجعلها مجانية للمسلمين في سبيل الله",
+            "ج) للتنافس مع المالك اليهودي",
+            "د) لأن النبي أمره بذلك"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "true-false",
+          "question": "الحب في الله يعني أن نساعد الآخرين فقط عندما نستفيد منه.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق الفعل مع مبدئه: ١- عثمان يجعل البئر مجانية ٢- التعبير عن الحب لأخيك ٣- تفضيل الآخرين على نفسك | أ) قال النبي ﷺ: \"أخبره أنك تحبه\" ب) الحب النزيه في سبيل الله ج) العطاء دون انتظار أي مقابل. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ج، ٢-أ، ٣-ب"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "lessonName": "الخلق 21: الصبر",
+      "lesson": "الملخص:\nالصبر يعني اعتناق هذه الفضيلة في أربع حالات: أثناء المحن دون الاعتراض على قرارات الله، وأثناء النعم بالبقاء متواضعين وشاكرين، ومن خلال طاعة أوامر الله كالصلاة والصيام، وعند الإغراء بالعصيان بالبقاء على طريق الاستقامة. غالباً ما نتساءل لماذا نواجه المتاعب أو الألم، ولكن لو عرفنا الأجر الذي لا يُقاس للصبر، لأصبحنا أكثر تقبلاً. يقول الله ﷻ: \"إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ.\"\n\nالقصة:\nزار الصحابي عبد الله بن مسعود رضي الله عنه النبي ﷺ بينما كان يعاني من حمى شديدة. قال عبد الله: \"يا رسول الله، إنك لتوعك وعكاً شديداً!\" فأجاب النبي ﷺ: \"أجل، إني أوعك كما يوعك رجلان منكم.\" سأل عبد الله: \"ذلك أن لك أجرين؟\" قال النبي ﷺ: \"أجل، ذلك كذلك. ما من مسلم يصيبه أذى، شوكة فما فوقها، إلا كفّر الله بها سيئاته، كما تحطّ الشجرة ورقها.\"",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "كم حالة تتطلب الصبر وفقاً للتعاليم الإسلامية؟",
+          "options": [
+            "أ) حالتان",
+            "ب) ثلاث حالات",
+            "ج) أربع حالات",
+            "د) خمس حالات"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "type": "true-false",
+          "question": "النبي ﷺ لم يعاني أبداً من الألم أو المشقة في حياته.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق نوع الصبر مع وصفه: ١- الصبر أثناء المحن ٢- الصبر أثناء النعم ٣- الصبر على الطاعة | أ) البقاء متواضعاً وشاكراً ب) عدم الاعتراض على قرارات الله ج) الصلاة والصيام وفعل الخيرات. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "lessonName": "الخلق 25: لا تتحدث بما لا تعلم ولا تنقل خبراً من غير تثبت",
+      "lesson": "الملخص:\nيجب أن نتحقق من المعلومات قبل مشاركتها، خاصة بسؤال المتخصصين ذوي المعرفة. جعلت وسائل التواصل الاجتماعي نشر الشائعات والأخبار المزيفة أسهل، مما زاد العداوة بين الناس. يقول الله ﷻ: \"وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا.\" نحن مسؤولون عن كيفية استخدام حواسنا - ما نرى ونسمع ونؤمن به. لا يجب أن ننشر الأخبار قبل التحقق منها من مصادر موثوقة. كثيرون يسارعون لمشاركة الشائعات ليكونوا \"الأوائل\"، خاصة في الإعلام، لكن هذا يسبب الضرر. حتى الأخبار الصحيحة يمكن أن تكون نميمة إذا كانت أموراً خاصة. يجب أن نعترف عندما لا نعرف شيئاً ونتوقف عن نشر الأخبار السيئة. والأهم من ذلك، مشاركة المعلومات الدينية الكاذبة خطيرة وآثمة بشكل خاص.\n\nالقصة:\nأسلم الحارث بن ضرار واتفق مع النبي ﷺ على إرسال جابي زكاة في وقت محدد. عندما انطلق الجابي، وسوس له الشيطان أن القبيلة قد تقتله، فعاد. في هذه الأثناء، جاء الحارث إلى المدينة. أخبر الجابي النبي ﷺ كذباً أن الحارث رفض الزكاة وأراد قتله. اقترح الصحابة قتال القبيلة، لكن النبي ﷺ قال: \"لنتحقق من هذا أولاً.\" فأرسل وفداً التقوا بالحارث وعلموا الحقيقة. ثم أنزل الله ﷻ: \"يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ.\"",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "ماذا فعل النبي ﷺ عندما تلقى خبراً بأن الحارث رفض دفع الزكاة؟",
+          "options": [
+            "أ) صدّقه فوراً واستعد للحرب",
+            "ب) تجاهل الخبر تماماً",
+            "ج) قال \"لنتحقق من هذا أولاً\" وأرسل وفداً",
+            "د) طلب من الحارث القدوم إلى المدينة"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "type": "true-false",
+          "question": "من المقبول مشاركة المعلومات الدينية على وسائل التواصل الاجتماعي دون التحقق من صحتها.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق الفعل مع نتيجته: ١- التحقق من الأخبار قبل نشرها ٢- نشر الشائعات دون التحقق ٣- استشارة المتخصصين ذوي المعرفة | أ) يسبب الضرر ويزيد العداوة ب) يحمي الناس من الجهل والضرر ج) يضمن حصولنا على معلومات دينية دقيقة. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "lessonName": "الخلق 26: حسن الظن بالله تعالى",
+      "lesson": "الملخص:\nتوقع الأفضل من الله يعني الثقة بأنه لا يمنحنا إلا ما هو أفضل لنا، وحتى المصائب هي نعم مستترة. الله ﷻ يمكنه حل جميع مشاكلنا بطرق لا يمكن تصورها، لذا يجب أن نثق بخياراته. يحاول الشيطان جعل المؤمنين يفقدون الأمل بوسوسة أفكار سلبية مثل \"لن تتزوج!\"، \"ستمرض!\"، أو \"لا تتصدق، ستصبح فقيراً!\" كلما قلّ استجابتنا لهذه الوساوس، زادت ثقتنا بالله ﷻ. يحذرنا الله: \"الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاءِ.\"\n\nالقصة:\nأمر الله النبي إبراهيم عليه السلام بترك هاجر وطفلهما إسماعيل في وادي مكة القاحل، حيث لم يكن هناك ماء ولا ناس. عندما سألت هاجر إن كان هذا من الله وقال نعم، أجابت بثقة تامة: \"إذن لن يضيعنا الله.\" عندما نفد الماء وبكى إسماعيل من العطش، ركضت هاجر بين جبلين يسميان الصفا والمروة سبع مرات بحثاً عن المساعدة. بسبب إيمانها وجهدها، جعل الله الماء ينبع من تحت قدمي إسماعيل — بئر زمزم — ومن تلك الثقة والمثابرة، بدأت مكة بالازدهار.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "ماذا قالت هاجر عندما تركها إبراهيم عليه السلام في الصحراء بعد أن علمت أن هذا أمر من الله؟",
+          "options": [
+            "أ) \"لماذا تتركنا هنا؟\"",
+            "ب) \"إذن لن يضيعنا الله\"",
+            "ج) \"خذنا معك\"",
+            "د) \"نحن بحاجة للماء أولاً\""
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "true-false",
+          "question": "الشيطان يحاول جعل المؤمنين يفقدون الأمل بوسوسة الأفكار السلبية.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق المفهوم مع معناه: ١- توقع الأفضل من الله ٢- وساوس الشيطان ٣- الثقة بالله | أ) أفكار سلبية تجعلنا نخاف من الفقر ب) الإيمان بأن الله يختار الأفضل لنا ج) الله يحل مشاكلنا بطرق لا نتصورها. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "lessonName": "الفضيلة الرابعة والثلاثون: الاعتبار من دروس الحياة",
+      "lesson": "الملخص:\nيجب أن نتعلم من تجارب الآخرين - نجاحاتهم وإخفاقاتهم - لتجنب الأخطاء. الاستماع إلى كبار السن يوسع آفاقنا، لأنهم عاشوا دروس الحياة. قال عبد الله بن مسعود: \"السعيد من اتعظ بغيره.\" يروي القرآن قصص الأنبياء لنتعلم منها. كثيرون يتجاهلون التحذيرات ويكررون أخطاء كان يمكن تجنبها. الاعتبار يقلل من ذنوبنا وأخطائنا، ويعزز إيماننا، ويمنعنا من اتباع الأغلبية بشكل أعمى. يقول الله ﷻ: \"وَإِن تُطِعْ أَكْثَرَ مَن فِي الْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ.\"\n\nالقصة:\nأُسر أبو عزة الجمحي، شاعر مشرك مشهور، في غزوة بدر. توسل للنبي ﷺ طالباً الرحمة، مدعياً الفقر وكثرة بناته، ووعد ألا يقاتله مرة أخرى. فأطلق النبي ﷺ سراحه دون فدية. لكن عندما عاد أبو عزة إلى مكة، نقض وعده وحرض المشركين ضد النبي ﷺ والمسلمين بشعره. في غزوة أحد، قاتل النبي ﷺ مرة أخرى. عندما أُسر للمرة الثانية، طلب الرحمة مجدداً، واعداً بعدم القتال. قال النبي ﷺ: \"والله، لا تمسح عارضيك بمكة وتقول خدعت محمداً مرتين... المؤمن لا يُلدغ من جحر مرتين.\"",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "ما الدرس الذي علمه النبي ﷺ عندما قال \"المؤمن لا يُلدغ من جحر مرتين\"؟",
+          "options": [
+            "أ) المؤمنون لا يجب أن يسامحوا أحداً أبداً",
+            "ب) يجب أن نتعلم من أخطائنا ولا نكررها",
+            "ج) يجب أن نثق بالناس دائماً مهما حدث",
+            "د) المؤمنون يجب أن يتجنبوا جميع الأماكن الخطرة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "true-false",
+          "question": "التعلم من تجارب كبار السن والاستماع إلى حكمتهم يساعدنا على تجنب الأخطاء.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "fill-blank",
+          "question": "المطابقة: طابق المفهوم مع فائدته: ١- التعلم من أخطاء الآخرين ٢- الاستماع إلى كبار السن ٣- الاعتبار من قصص القرآن | أ) يوسع آفاقنا ويزيد نضجنا ب) يساعدنا على تجنب تكرار نفس الأخطاء ج) يعلمنا دروساً من الأنبياء والأمم. اكتب الإجابة بهذا الشكل: ١-؟، ٢-؟، ٣-؟",
+          "correctAnswer": "١-ب، ٢-أ، ٣-ج"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "lessonName": "Replace with lesson name for Day 9",
+      "lesson": "Replace this text with the lesson for Day 9 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 9",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 9",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 9",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "lessonName": "Replace with lesson name for Day 10",
+      "lesson": "Replace this text with the lesson for Day 10 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 10",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 10",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 10",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "lessonName": "Replace with lesson name for Day 11",
+      "lesson": "Replace this text with the lesson for Day 11 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 11",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 11",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 11",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "lessonName": "Replace with lesson name for Day 12",
+      "lesson": "Replace this text with the lesson for Day 12 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 12",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 12",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 12",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "lessonName": "Replace with lesson name for Day 13",
+      "lesson": "Replace this text with the lesson for Day 13 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 13",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 13",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 13",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "lessonName": "Replace with lesson name for Day 14",
+      "lesson": "Replace this text with the lesson for Day 14 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 14",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 14",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 14",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "lessonName": "Replace with lesson name for Day 15",
+      "lesson": "Replace this text with the lesson for Day 15 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 15",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 15",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 15",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "lessonName": "Replace with lesson name for Day 16",
+      "lesson": "Replace this text with the lesson for Day 16 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 16",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 16",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 16",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "lessonName": "Replace with lesson name for Day 17",
+      "lesson": "Replace this text with the lesson for Day 17 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 17",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 17",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 17",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "lessonName": "Replace with lesson name for Day 18",
+      "lesson": "Replace this text with the lesson for Day 18 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 18",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 18",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 18",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "lessonName": "Replace with lesson name for Day 19",
+      "lesson": "Replace this text with the lesson for Day 19 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 19",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 19",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 19",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "lessonName": "Replace with lesson name for Day 20",
+      "lesson": "Replace this text with the lesson for Day 20 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 20",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 20",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 20",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "lessonName": "Replace with lesson name for Day 21",
+      "lesson": "Replace this text with the lesson for Day 21 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 21",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 21",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 21",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "lessonName": "Replace with lesson name for Day 22",
+      "lesson": "Replace this text with the lesson for Day 22 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 22",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 22",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 22",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "lessonName": "Replace with lesson name for Day 23",
+      "lesson": "Replace this text with the lesson for Day 23 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 23",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 23",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 23",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "lessonName": "Replace with lesson name for Day 24",
+      "lesson": "Replace this text with the lesson for Day 24 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 24",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 24",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 24",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "lessonName": "Replace with lesson name for Day 25",
+      "lesson": "Replace this text with the lesson for Day 25 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 25",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 25",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 25",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "lessonName": "Replace with lesson name for Day 26",
+      "lesson": "Replace this text with the lesson for Day 26 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 26",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 26",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 26",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "lessonName": "Replace with lesson name for Day 27",
+      "lesson": "Replace this text with the lesson for Day 27 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 27",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 27",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 27",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "lessonName": "Replace with lesson name for Day 28",
+      "lesson": "Replace this text with the lesson for Day 28 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 28",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 28",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 28",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "lessonName": "Replace with lesson name for Day 29",
+      "lesson": "Replace this text with the lesson for Day 29 of Ramadan. Explain the key concepts and teachings for this day.",
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Replace this with Question 1 (Multiple Choice) for Day 29",
+          "options": [
+            "Option A - Replace with actual option",
+            "Option B - Replace with actual option",
+            "Option C - Replace with actual option",
+            "Option D - Replace with actual option"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "type": "true-false",
+          "question": "Replace this with Question 2 (True or False) for Day 29",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "type": "fill-blank",
+          "question": "Replace this with Question 3 (Fill in the blank) for Day 29",
+          "correctAnswer": "Replace with correct answer"
+        }
+      ]
+    }
+  ]
+}

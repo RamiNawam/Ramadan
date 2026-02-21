@@ -10,17 +10,40 @@
     <!-- Calendar Page -->
     <div id="calendar-page" class="page">
         <div class="container">
-            <h1>Ramadan Calendar</h1>
-            <div id="calendar" class="calendar"></div>
+            <header class="welcome-card">
+                <h1 class="welcome-title">Welcome to the Ramadan Daily Quiz</h1>
+                <div class="logo-container hero-logo">
+                    <img src="resources/Kalimah-Tayebah-Logo-new.png?v=1" alt="Kalimah Tayebah Logo" class="main-logo">
+                </div>
+            </header>
+            <section class="calendar-section">
+                <h2 class="calendar-title">Ramadan Calendar</h2>
+                <div id="calendar" class="calendar"></div>
+            </section>
         </div>
     </div>
 
     <!-- Quiz Page -->
     <div id="quiz-page" class="page" style="display: none;">
         <div class="quiz-container">
+            <div class="logo-container quiz-logo">
+                <img src="resources/Kalimah-Tayebah-Logo-new.png?v=1" alt="Kalimah Tayebah Logo" class="main-logo">
+            </div>
             <button id="back-button" class="back-button">← Back to Calendar</button>
             <h1 id="quiz-day-title" class="quiz-title">Ramadan 1</h1>
             <div id="quiz-content" class="quiz-content"></div>
+        </div>
+    </div>
+
+    <!-- Score Modal -->
+    <div id="score-modal" class="score-modal" style="display: none;">
+        <div class="score-modal-content">
+            <h2>Quiz Complete!</h2>
+            <div class="score-display">
+                <span id="score-text">0/3</span>
+            </div>
+            <p id="score-message">Great job!</p>
+            <button id="close-score-btn" class="close-score-btn">Close</button>
         </div>
     </div>
 
